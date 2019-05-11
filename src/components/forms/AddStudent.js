@@ -48,7 +48,7 @@ class AddStudent extends Component {
           </div>
 
           <div className="form-group col-2 ml-2">
-            <button onClick={ this.handleClick } className="btn btn-success btn-block">Submit</button>
+            <button onClick={ this.handleClick } className="btn btn-outline-success btn-block btn-sm">Submit</button>
           </div>
 
         </form>

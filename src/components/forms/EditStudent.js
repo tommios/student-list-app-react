@@ -90,7 +90,7 @@ class EditStudent extends Component {
           <div className="form-group col-2 ml-2">
             <button
               onClick={this.handleClick}
-              className="btn btn-primary btn-block"
+              className="btn btn-outline-primary btn-sm btn-block"
             >
               {" "}
               Update{" "}
