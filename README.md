@@ -1,3 +1,5 @@
+![Иллюстрация к проекту](https://github.com/tommios/student-list-app-react/raw/master/screenshot.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -24,5 +26,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
-
-![Иллюстрация к проекту](https://github.com/tommios/student-list-app-react/raw/master/screenshot.JPG)
